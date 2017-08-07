@@ -1,4 +1,4 @@
-# Zabbix Memory Used Template for CommuniGate
+# Zabbix Memory Usage Template for CommuniGate
 
 > для Zabbix 3.x
 
