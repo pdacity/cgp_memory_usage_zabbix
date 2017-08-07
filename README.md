@@ -1,5 +1,7 @@
 # Zabbix Memory Usage Template for CommuniGate
 
+> версия 1.0 - (20170807)
+
 > для Zabbix 3.x
 
 > zabbix-agent должен быть установлен на наблюдаемом узле
