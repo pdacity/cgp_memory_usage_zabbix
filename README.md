@@ -21,7 +21,7 @@
 
 * CGP memory usage - использование памяти процессами CGP
 
-![Host](https://github.com/pdacity/cgp_snmp_zabbix/blob/master/CGP_memory_usage.png)
+![Host](https://github.com/pdacity/cgp_memory_used_zabbix/blob/master/CGP_memory_usage.png)
 
 
 ### Добавление узла
