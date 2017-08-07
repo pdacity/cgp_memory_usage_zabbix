@@ -9,8 +9,8 @@
 
 ### Настройка сервера
 
-* скопируйте файл userparameter-CGP-resources в /etc/zabbix/zabbix_agent.d
-* скопируйте файлы memmory_check.sh и memory_total.sh в каталог /etc/zabbix/bin
+* скопируйте файл "userparameter-CGP-resources.conf" в /etc/zabbix/zabbix_agent.d
+* скопируйте файлы "memory_check.sh" и "memory_total.sh" в каталог /etc/zabbix/bin
 * chmod 755 /etc/zabbix/bin/*.sh
 * после копирования скриптов рестартуйте zabbix-agent
 
